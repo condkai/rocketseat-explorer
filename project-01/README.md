@@ -10,7 +10,7 @@
 
 🌎 **Result Preview: [Live Demo](https://oleandrolozano.github.io/rocketseat-explorer/project-01/)**
 
-☑️ **Task:** build a small business static website from a given [Figma](https://www.figma.com/file/psJXoUxdJPITZZgJiRjxcH/Explorer-(Copy)) project.
+☑️ **Task:** build a small business static website from a given [Figma](https://www.figma.com/file/N79YZLomd5J9qGJcSBqGOX/Explorer---Projeto-01-(Copy)) project.
 
  - [x] How to use Figma;
  - [x] Initial structure of HTML;

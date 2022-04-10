@@ -1,6 +1,6 @@
 # 🚀 Rocketseat's Explorer Course Documentation 📁
  
-### Stage 02 - Project 2: Fixing a broken website 
+### Stage 02 - Project 2: Fixing a broken website
  
 ---
   
