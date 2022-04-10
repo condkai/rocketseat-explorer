@@ -8,7 +8,7 @@
   
 🕛 **Status:** Finished ✔️
 
-**[Live Demo](https://oleandrolozano.github.io/rocketseat-explorer/project-01/)**
+**🌎 [Live Demo](https://oleandrolozano.github.io/rocketseat-explorer/project-01/)**
 
 ☑️ **Task:** build a small business static website from a given [Figma](https://www.figma.com/file/psJXoUxdJPITZZgJiRjxcH/Explorer-(Copy)) project.
 
