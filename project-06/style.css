@@ -9,6 +9,8 @@ html, body{
   font-size: 62.5%;
 }
 
+
+
 .container{
  
   display: grid;  
@@ -186,6 +188,7 @@ body::after{
 
 footer{
   height: 6rem;
+  display: none;
 }
 
 @media (min-width: 600px){
@@ -209,7 +212,8 @@ footer{
 
   .container{   
     width:100%;
-    height: 100vh;    
+    height: 100vh; 
+    min-width: 500px;   
     margin: 0 auto;    
     display: grid;  
     grid-template-columns: 4fr 6fr;
@@ -265,7 +269,22 @@ footer{
     height: 100%;
   }
 
+  footer{
+    height: 6rem;
+    display: block;
 
+  }
+
+  footer h3{
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+
+    text-align: center; 
+       
+    color: #4A4E69;   
+  }
 
 }
 
@@ -275,10 +294,12 @@ footer{
   .image-grid img{
     width: 100%;
     height: 100%;
+    
   }
 
   .container{   
-    width: 100%;        
+    
+    width: 128rem;        
     height: 100vh;    
     max-width: 220rem;
     margin: 0 auto;    

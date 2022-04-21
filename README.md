@@ -16,10 +16,14 @@ A way to document my journey as a WebDev aspirer 🚀
 - Project 1: [Introduction to HTML and CSS](https://github.com/oleandrolozano/rocketseat-explorer/tree/main/project-01)
 - Project 2: [Fixing a broken website](https://github.com/oleandrolozano/rocketseat-explorer/tree/main/project-02)
 - Project 3: [Recreating static website](https://github.com/oleandrolozano/rocketseat-explorer/tree/main/project-03)
+- Project 4: [Recreating static website + HTML Form](https://github.com/oleandrolozano/rocketseat-explorer/tree/main/project-04)
+- Project 5 + 6: [Recreating Animated website + Media Layout](https://github.com/oleandrolozano/rocketseat-explorer/tree/main/project-06)
+
+
 
 ![Alt text](https://raw.githubusercontent.com/oleandrolozano/rocketseat-explorer/main/project_slide.gif "Slide Show - Screenshots from projects")
 
 ---
 #### Status: 🚧 In progress
 
-<p style="color:#32a85d"> ██▁▁▁▁▁▁▁▁ &nbsp;20% </p>
+<p style="color:#32a85d"> ███▁▁▁▁▁▁▁▁ &nbsp;30% </p>
